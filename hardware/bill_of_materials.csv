@@ -1,0 +1,11 @@
+item,qty,unit_cost_usd,total_cost_usd,purpose,category
+ESP32 DevKit (ESP32-WROOM-32),1,8.00,8.00,"Reads sensors, Wi-Fi, can run an exported model",core
+Capacitive soil moisture sensor v1.2,2,3.00,6.00,"Main signal; capacitive type resists corrosion; one spare",core
+DHT22 temperature/humidity sensor,1,5.00,5.00,"Air conditions that change how fast soil dries",core
+Breadboard + jumper wires,1,4.00,4.00,"Solder-free prototype",core
+10 kOhm resistor,1,0.50,0.50,"DHT22 data-line pull-up (if bare sensor)",core
+USB data cable + 5 V adapter,1,4.00,4.00,"Power and serial logging",core
+Potted plant and soil,1,5.00,5.00,"Test subject for data collection",core
+5 V relay module,1,2.50,2.50,"Switch the pump in the Phase 4 demo",optional
+Mini submersible pump,1,4.00,4.00,"Automatic watering demo",optional
+Silicone tubing,1,2.00,2.00,"Water delivery for the demo",optional
